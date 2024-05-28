@@ -8,7 +8,7 @@ const nextConfig = {
         destination: "/items/:id", // 이동시킬 주소
         permanent: false,
       },
-    ]; 
+    ];
   },
 };
 
